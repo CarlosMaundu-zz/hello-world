@@ -1,2 +1,5 @@
 # hello-world
-Welcome to my world
+
+Hallo Earthlings,
+
+Print ("Python is my favourite language.")
